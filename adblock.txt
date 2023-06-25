@@ -1,6 +1,5 @@
-! Title: aperricio's list
+! Title: aperricio list
 ! Last modified: 25 Jun 2023 14:04
-
 ! Description: creada con la herramienta de selección de uBlock Origin
 
 
