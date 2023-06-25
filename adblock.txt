@@ -13,4 +13,4 @@ filext.com###ctpass-top
 twitter.com##div {color:red !important}
 
 ! 2023-06-25 https://twitter.com
-linuxadictos.com##body {color:red !important}
+linuxadictos.com##body:style(color:red !important)
