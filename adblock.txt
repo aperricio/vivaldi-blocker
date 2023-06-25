@@ -1,6 +1,6 @@
 ! Title: ABAperricio list
 ! Last modified: 25 Jun 2023 14:04 GMT+2
-! Description: creada con la herramienta de selección y selectores de UBlock Origin
+! Description: creada con la herramienta de selección y selectores de uBlock Origin
 
 
 ! 2023-03-10 https://filext.com
