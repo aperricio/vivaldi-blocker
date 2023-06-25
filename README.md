@@ -1,2 +1,2 @@
 # vivaldi-blocker
-Mi lista de bloqueo personal de vivaldi
+Mi lista de bloqueo personal de Vivaldi
