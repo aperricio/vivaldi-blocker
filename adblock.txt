@@ -9,6 +9,7 @@ filext.com###ctpass-top
 ! 2023-06-25 https://powvdeo.lol
 ||bontent.powzers.lol/direct.hd?n=&z=36$subdocument
 ||bontent.powzers.lol/direct.hd?n=&z=1$subdocument
+powvdeo.lol##body>a
 !powvdeo.lol##iframe
 
 ! 2023-06-25 https://twitter.com
