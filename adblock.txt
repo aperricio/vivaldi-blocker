@@ -1,5 +1,4 @@
-! Title: lista personal de aperricio
-! Last modified: 25 Nun 2023 14:04
+! Title: Lista personal de aperricio
 ! Description: creada con la herramienta de selección de uBlock Origin
 
 
