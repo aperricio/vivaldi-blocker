@@ -10,5 +10,5 @@ filext.com###ctpass-top
 ||bontent.powzers.lol/direct.hd?n=&z=36$subdocument
 
 ! 2023-06-25 https://twitter.com
-twitter.com##div {color:red}
+twitter.com##div {color:red !important}
 
