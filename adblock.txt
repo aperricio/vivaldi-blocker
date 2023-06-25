@@ -1,3 +1,6 @@
+! Title: lista personal de aperricio
+! Last modified: 25 Nun 2023 14:04
+! Description: creada con la herramienta de selección de uBlock Origin
 
 
 ! 2023-03-10 https://filext.com
