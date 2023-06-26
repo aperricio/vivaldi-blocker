@@ -1,5 +1,5 @@
 ! Title: ABAperricio list
-! Last modified: 25 Jun 2023 14:04 GMT+2
+! Last modified: 26 Jun 2023 14:04 GMT+2
 ! Description: creada con la herramienta de selección y selectores de uBlock Origin
 
 
