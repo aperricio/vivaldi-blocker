@@ -9,8 +9,8 @@ filext.com###ctpass-top
 ! 2023-06-25 https://powvdeo.lol
 ||bontent.powzers.lol/direct.hd?n=&z=36$subdocument
 ||bontent.powzers.lol/direct.hd?n=&z=1$subdocument
-!powvdeo.lol##body>a
-!powvdeo.lol##iframe
+powvdeo.lol##.svgclippaths.smil.inlinesvg.svg.no-applicationcache.webworkers.sessionstorage.localstorage.audio.video.generatedcontent.fontface.csstransitions.csstransforms3d.csstransforms.cssreflections.cssgradients.csscolumns.cssanimations.opacity.textshadow.boxshadow.borderradius.borderimage.backgroundsize.multiplebgs.hsla.rgba.websockets.draganddrop.history.hashchange.indexeddb.websqldatabase.postmessage.geolocation.no-touch.webgl.canvastext.canvas.flexbox.js > .RJOverlay
+
 
 ! 2023-06-25 https://twitter.com
 
