@@ -21,4 +21,4 @@ linuxadictos.com##html:style(color:red !important;)
 youtube.com###tp-yt-paper-dialog.ytd-popup-container.style-scope
 
 ! 2023-12-10 https://linuxadictos.com
-##section
+###section
