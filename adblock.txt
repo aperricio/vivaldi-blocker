@@ -18,9 +18,6 @@ powvdeo.lol##.svgclippaths.smil.inlinesvg.svg.no-applicationcache.webworkers.ses
 ! 2023-06-25 linuxadictos.com
 linuxadictos.com##html:style(color:red !important;)
 
-! 2023-12-10 https://youtube.com
-youtube.com###tp-yt-paper-dialog.ytd-popup-container.style-scope
-
 ! 2023-12-08 https://www.youtube.com
 www.youtube.com##ytd-emergency-onebox-renderer.ytd-item-section-renderer.style-scope > .ytd-emergency-onebox-renderer.style-scope
 
