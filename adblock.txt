@@ -20,4 +20,6 @@ www.youtube.com##ytd-emergency-onebox-renderer.ytd-item-section-renderer.style-s
 
 ! 2024-01-13 https://music.apple.com Texto de "Abrir en".
 music.apple.com##.native-cta.svelte-agv6qn
-
+! 2024-01-14 ubunlog.com y linuxadictos.com elimina recaptcha
+ubunlog.com##div:last-child > div.grecaptcha-badge:first-child
+linuxadictos.com##div:last-child > div.grecaptcha-badge:first-child
