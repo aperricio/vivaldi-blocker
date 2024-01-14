@@ -22,5 +22,5 @@ www.youtube.com##ytd-emergency-onebox-renderer.ytd-item-section-renderer.style-s
 music.apple.com##.native-cta.svelte-agv6qn
 
 ! 2024-01-14 elimina recaptcha
-ubunlog.com|linuxadictos.com|desdelinux.net##div:last-child > div.grecaptcha-badge:first-child
+ubunlog.com|linuxadictos.com|blog.desdelinux.net##div:last-child > div.grecaptcha-badge:first-child
 
