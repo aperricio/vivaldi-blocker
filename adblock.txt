@@ -24,3 +24,6 @@ music.apple.com##.native-cta.svelte-agv6qn
 ! 2024-01-14 elimina recaptcha
 ubunlog.com|linuxadictos.com|blog.desdelinux.net##div:last-child > div.grecaptcha-badge:first-child
 
+! 2024-02.10 Banner de Apple music
+##.shz-frame.shz-frame-promotionbanner
+
