@@ -1,6 +1,9 @@
 ! Title: AB aperricio list
-! Last modified: 13 Ene 2023 14:36 GMT+2
+! Last modified: 14 Feb 2023
 ! Description: creada en parte con la herramienta de selección de uBlock Origin y en parte manualmente
+
+! Prueba para editar CSS
+! linuxadictos.com##html:style(color:red !important;)
 
 ! 2023-03-10 https://filext.com
 filext.com###ctpass-top
@@ -10,20 +13,12 @@ filext.com###ctpass-top
 ||bontent.powzers.lol/direct.hd?n=&z=1$subdocument
 powvdeo.lol##.svgclippaths.smil.inlinesvg.svg.no-applicationcache.webworkers.sessionstorage.localstorage.audio.video.generatedcontent.fontface.csstransitions.csstransforms3d.csstransforms.cssreflections.cssgradients.csscolumns.cssanimations.opacity.textshadow.boxshadow.borderradius.borderimage.backgroundsize.multiplebgs.hsla.rgba.websockets.draganddrop.history.hashchange.indexeddb.websqldatabase.postmessage.geolocation.no-touch.webgl.canvastext.canvas.flexbox.js > .RJOverlay
 
-! 2023-06-25 linuxadictos.com
-linuxadictos.com##html:style(color:red !important;)
-
 ! 2023-12-08 https://www.youtube.com 
 www.youtube.com##ytd-emergency-onebox-renderer.ytd-item-section-renderer.style-scope > .ytd-emergency-onebox-renderer.style-scope
-
-||www.google.com/recaptcha/api2/anchor?ar=1&k=6LeQY4AUAAAAAAeIyX2tyT-NAuIxbFB4MdMMqNUd&co=aHR0cHM6Ly91YnVubG9nLmNvbTo0NDM.&hl=es&v=u-xcq3POCWFlCr3x8_IPxgPu&size=invisible&cb=1r48ro3g8ouv
 
 ! 2024-01-13 https://music.apple.com Texto de "Abrir en".
 music.apple.com##.native-cta.svelte-agv6qn
 
-! 2024-01-14 elimina recaptcha
-ubunlog.com|linuxadictos.com|blog.desdelinux.net##div:last-child > div.grecaptcha-badge:first-child
-
-! 2024-02.10 Banner de Apple music
+! 2024-02.10 Banner de Apple music en Shazam
 ##.shz-frame.shz-frame-promotionbanner
 
