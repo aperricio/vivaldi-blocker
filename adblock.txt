@@ -25,4 +25,3 @@ music.apple.com##.native-cta--authenticated.svelte-kr6gtl.native-cta
 ! 20224-08-22
 adslzone.net##.np-card__container
 adslzone.net##.np-card__close-btn
-||www.adslzone.net/app/themes/gaz-v1/dist/themes/gaz/images/gaz-logos/initials/grupoadslzone.net_initial.png?x=45
