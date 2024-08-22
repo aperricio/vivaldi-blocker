@@ -20,7 +20,7 @@ www.youtube.com##ytd-emergency-onebox-renderer.ytd-item-section-renderer.style-s
 music.apple.com##.native-cta--authenticated.svelte-kr6gtl.native-cta
 
 ! 2024-02-10 Banner de Apple music en Shazam
-##.shz-frame.shz-frame-promotionbanner
+music.apple.com##.shz-frame.shz-frame-promotionbanner
 
 ! 20224-08-22
 adslzone.net##.np-card__container
