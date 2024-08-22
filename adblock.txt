@@ -1,5 +1,5 @@
 ! Title: AB aperricio list
-! Last modified: 14 Feb 2023
+! Last modified: 22 Aug 2024
 ! Description: creada en parte con la herramienta de selección de uBlock Origin y en parte manualmente
 
 ! Prueba para editar CSS
@@ -19,6 +19,10 @@ www.youtube.com##ytd-emergency-onebox-renderer.ytd-item-section-renderer.style-s
 ! 2024-02-27 https://music.apple.com Texto de "Abrir en".
 music.apple.com##.native-cta--authenticated.svelte-kr6gtl.native-cta
 
-! 2024-02.10 Banner de Apple music en Shazam
+! 2024-02-10 Banner de Apple music en Shazam
 ##.shz-frame.shz-frame-promotionbanner
 
+! 20224-08-22
+adslzone.net##.np-card__container
+adslzone.net##.np-card__close-btn
+||www.adslzone.net/app/themes/gaz-v1/dist/themes/gaz/images/gaz-logos/initials/grupoadslzone.net_initial.png?x=45
