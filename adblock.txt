@@ -25,3 +25,4 @@ music.apple.com##.shz-frame.shz-frame-promotionbanner
 ! 20224-08-22
 adslzone.net##.np-card__container
 adslzone.net##.np-card__close-btn
+adslzone.net##.fixed-sites
