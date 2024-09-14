@@ -8,13 +8,10 @@ filext.com###ctpass-top
 ! 2023-12-08 https://www.youtube.com 
 www.youtube.com##ytd-emergency-onebox-renderer.ytd-item-section-renderer.style-scope > .ytd-emergency-onebox-renderer.style-scope
 
-! 2024-02-27 https://music.apple.com Texto de "Abrir en".
-music.apple.com##.native-cta--authenticated[class^="svelte"]
-
 ! 2024-02-10 Banner de Apple music en Shazam
 music.apple.com##.shz-frame.shz-frame-promotionbanner
 
-! 20224-08-22
+! 20224-08-22 https://adslzone.net
 adslzone.net##.np-card__container
 adslzone.net##.np-card__close-btn
 adslzone.net##.fixed-sites
