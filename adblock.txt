@@ -2,9 +2,6 @@
 ! Last modified: 24 Aug 2024
 ! Description: creada en parte con la herramienta de selección de uBlock Origin y en parte manualmente
 
-! 2023-03-10 https://filext.com
-filext.com###ctpass-top
-
 ! 2023-12-08 https://www.youtube.com 
 www.youtube.com##ytd-emergency-onebox-renderer.ytd-item-section-renderer.style-scope > .ytd-emergency-onebox-renderer.style-scope
 
