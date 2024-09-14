@@ -2,9 +2,6 @@
 ! Last modified: 24 Aug 2024
 ! Description: creada en parte con la herramienta de selección de uBlock Origin y en parte manualmente
 
-! Prueba para editar CSS
-! linuxadictos.com##html:style(color:red !important;)
-
 ! 2023-03-10 https://filext.com
 filext.com###ctpass-top
 
