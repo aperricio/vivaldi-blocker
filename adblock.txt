@@ -15,3 +15,4 @@ adslzone.net##.fixed-sites
 
 ! 2024-08-17 div sticky en blogs
 linuxadictos.com##div.code-block.code-block-1
+ubunlog.com##div.code-block.code-block-1
