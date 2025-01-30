@@ -14,6 +14,6 @@ adslzone.net##.np-card__close-btn
 adslzone.net##.fixed-sites
 
 ! 2025-01-30 div sticky en blogs
-linuxadictos.com##div.code-block.code-block-1
+linuxadictos.com##.code-block.code-block-1
 ubunlog.com##div.code-block.code-block-1
 windowsnoticias.com##div.code-block.code-block-1
