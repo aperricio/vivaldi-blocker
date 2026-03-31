@@ -23,7 +23,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=17ad42b190bd0327984ea7efee661564a61
 #EXTINF:-1 name="M+ Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MDOCHD" group-title="Entretenimiento",M+ Documentales
 http://127.0.0.1:6878/ace/getstream?infohash=a52f0bf0a381275ccbd65988b803fe4e5930bef7
 
-#EXTINF:-1 name="SYFY" tvg-logo="https://www.syfy.es/sites/all/themes/pint_themes/base_syfywire/favicon.ico" group-title="Entretenimiento",SYFY
+#EXTINF:-1 name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="Entretenimiento",SYFY
 http://127.0.0.1:6878/ace/getstream?infohash=bed9968cc0091f388b166773426550a178d3d684
 
 #EXTINF:-1 name="AXN Movies" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/AXNWHD" group-title="Entretenimiento",AXN Movies
