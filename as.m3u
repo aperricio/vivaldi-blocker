@@ -103,18 +103,3 @@ http://127.0.0.1:6878/ace/getstream?infohash=d57ebd44296b0c92c0661cc964e737a54b8
 
 #EXTINF:-1 name="TNT Sports 4" tvg-logo="" group-title="Deportes",TNT Sports 4
 http://127.0.0.1:6878/ace/getstream?infohash=2605c201c8c9cf6684ee1de562d3b4c7e17ac915
-
-#EXTINF:-1 name="Playboy TV" tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/playboy_tv-brandlogo.net_.png" group-title="Adultos",Playboy
-http://127.0.0.1:6878/ace/getstream?infohash=3538699d0f82ab315ae4eb73170fad6f9c24cacb
-
-#EXTINF:-1 name="Babes TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/babes-tv-2024.png" group-title="Adultos",Babes TV
-http://127.0.0.1:6878/ace/getstream?infohash=6293239a836d1d8db88100679bb5ed04966122a9
-
-#EXTINF:-1 name="Brazzers TV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/Brazzers-TV-Logo-Vector.svg-.png" group-title="Adultos",Brazzers TV Europe
-http://127.0.0.1:6878/ace/getstream?infohash=2835be1d45f51067386a031dbf6d586700515d5f
-
-#EXTINF:-1 name="Dorcel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo-Dorcelxxx.png?_=20221205225018" group-title="Adultos",Dorcel TV
-http://127.0.0.1:6878/ace/getstream?infohash=7b35a9bea4e81679e63909373b67aa429e63a5ec
-
-#EXTINF:-1 name="Leo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Leo_TV.png" group-title="Adultos",Leo TV
-http://127.0.0.1:6878/ace/getstream?infohash=214af4f424d5c54076164f39bc5b3da413e2aaa7
