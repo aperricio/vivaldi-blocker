@@ -32,6 +32,9 @@ http://127.0.0.1:6878/ace/getstream?infohash=e075d960a5dc90c4acebe1b8060d8f29a52
 #EXTINF:-1 name="CALLE 13" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/C13HD" group-title="Entretenimiento",CALLE 13
 http://127.0.0.1:6878/ace/getstream?infohash=ab04c2ca4d300adb8d17acb054e5a6eedcd4bf27
 
+#EXTINF:-1 name="SkyShowtime 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SKYSHO" group-title="Entretenimiento",SkyShowtime 1
+http://127.0.0.1:6878/ace/getstream?infohash=f1edc5f73f4e489a607feb755695a2c2dff3f17f
+
 #EXTINF:-1 name="DAZN MotoGP" tvg-logo="https://image.discovery.indazn.com/jp/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/17" group-title="Deportes",DAZN MotoGP
 http://127.0.0.1:6878/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d
 
