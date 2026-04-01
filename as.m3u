@@ -36,7 +36,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=ab04c2ca4d300adb8d17acb054e5a6eedcd
 http://127.0.0.1:6878/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d
 
 #EXTINF:-1 name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
-http://127.0.0.1:6878/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d
+http://127.0.0.1:6878/ace/getstream?infohash=6d325cda6ed591647ef5e91edd043147bce8be30
 
 #EXTINF:-1 name="DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="Deportes",DAZN 1
 http://127.0.0.1:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
