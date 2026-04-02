@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 name="M+" tvg-logo="" group-title="Entretenimiento",M+
+http://127.0.0.1:6878/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d 
+
 #EXTINF:-1 name="M+ Accion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/CPACCI",M+ Accion
 http://127.0.0.1:6878/ace/getstream?infohash=cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c
 
