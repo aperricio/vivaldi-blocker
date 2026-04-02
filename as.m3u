@@ -36,7 +36,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=ab04c2ca4d300adb8d17acb054e5a6eedcd
 http://127.0.0.1:6878/ace/getstream?infohash=f1edc5f73f4e489a607feb755695a2c2dff3f17f
 
 #EXTINF:-1 name="DAZN MotoGP" tvg-logo="https://image.discovery.indazn.com/jp/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/17" group-title="Deportes",DAZN MotoGP
-http://127.0.0.1:6878/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d
+http://127.0.0.1:6878/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d 
 
 #EXTINF:-1 name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
 http://127.0.0.1:6878/ace/getstream?infohash=6d325cda6ed591647ef5e91edd043147bce8be30
