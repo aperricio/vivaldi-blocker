@@ -54,7 +54,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d045
 http://127.0.0.1:6878/ace/getstream?infohash=c21a2524a8de3e1e5b126f2677a3e993d9aa07c4
 
 #EXTINF:-1 name="Eurosport 1" tvg-logo="" group-title="Deportes",Eurosport 1
-http://127.0.0.1:6878/ace/getstream?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
+http://127.0.0.1:6878/ace/getstream?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea 
 
 #EXTINF:-1 name="Eurosport 2" tvg-logo="" group-title="Deportes",Eurosport 2
 http://127.0.0.1:6878/ace/getstream?id=24f940fef7e270b6b3ae5d9dc713a80c8345cfba
