@@ -12,7 +12,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=e10ef7d45baba0ec10a1f237042dc633df9
 http://127.0.0.1:6878/ace/getstream?infohash=060f90e77ec1f3478ef81b58569c0158b7851af5
 
 #EXTINF:-1 name="M+ Originales" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MORIGH" group-title="Entretenimiento",M+ Originales
-http://127.0.0.1:6878/ace/getstream?infohash=fcfe83e9b75169730fedf7375127c0190443972e
+#http://127.0.0.1:6878/ace/getstream?infohash=fcfe83e9b75169730fedf7375127c0190443972e
 
 #EXTINF:-1 name="M+ COMEDIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/CPCOME" group-title="Entretenimiento",M+ COMEDIA
 http://127.0.0.1:6878/ace/getstream?infohash=28e3a4ee2f3d9876435c534a49e34e1a4ced0f12
