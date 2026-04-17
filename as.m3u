@@ -5,6 +5,9 @@ http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 name="M+ Accion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/CPACCI",M+ Accion
 http://127.0.0.1:6878/ace/getstream?infohash=cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c
 
+#EXTINF:-1 name="M+ Estrenos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/CPACCI",M+ Estrenos
+http://127.0.0.1:6878/ace/getstream?id=e806d7f85713d47aa4f911bbef37e39f57fdef41
+
 #EXTINF:-1 name="M+ DRAMA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/CPCOLE" group-title="Entretenimiento",M+ DRAMA
 http://127.0.0.1:6878/ace/getstream?infohash=acc20f3739d9eccd0539f0c62519f35b8750a245
 
