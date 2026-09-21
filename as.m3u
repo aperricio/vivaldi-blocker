@@ -63,7 +63,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=c21a2524a8de3e1e5b126f2677a3e993d9a
 http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9 
 
 #EXTINF:-1 name="Eurosport 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/ESP2" group-title="Deportes",Eurosport 2
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f 
+http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0 
 
 #EXTINF:-1 name="M. LaLiga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIGA" group-title="Deportes",M. LaLiga
 http://127.0.0.1:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c
