@@ -23,7 +23,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=0364449064d322a1bc0f97d568452053810
 #EXTINF:-1 name="M+ COMEDIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/CPCOME" group-title="Entretenimiento",M+ COMEDIA
 http://127.0.0.1:6878/ace/getstream?infohash=28e3a4ee2f3d9876435c534a49e34e1a4ced0f12
 
-#EXTINF:-1 name="M+ Los 2000" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/L2000" group-title="Entretenimiento",M+ Los 2000
+#EXTINF:-1 name="M+ Terror" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/L2000" group-title="Entretenimiento",M+ Los 2000
 http://127.0.0.1:6878/ace/getstream?infohash=17ad42b190bd0327984ea7efee661564a61bfc5b
 
 #EXTINF:-1 name="M+ Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MDOCHD" group-title="Entretenimiento",M+ Documentales
