@@ -1,45 +1,45 @@
 #EXTM3U
 #EXTINF:-1 name="M+" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MPLUS" group-title="Entretenimiento",M+
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 
 #EXTINF:-1 name="M+ Accion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/CPACCI",M+ Accion
-http://127.0.0.1:6878/ace/getstream?infohash=cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c
+#http://127.0.0.1:6878/ace/getstream?infohash=cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c
 
 #EXTINF:-1 name="M+ Estrenos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MV1",M+ Estrenos
-http://127.0.0.1:6878/ace/getstream?id=e806d7f85713d47aa4f911bbef37e39f57fdef41
+#http://127.0.0.1:6878/ace/getstream?id=e806d7f85713d47aa4f911bbef37e39f57fdef41
 
 #EXTINF:-1 name="M+ DRAMA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/CPCOLE" group-title="Entretenimiento",M+ DRAMA
-http://127.0.0.1:6878/ace/getstream?infohash=acc20f3739d9eccd0539f0c62519f35b8750a245
+#http://127.0.0.1:6878/ace/getstream?infohash=acc20f3739d9eccd0539f0c62519f35b8750a245
 
 #EXTINF:-1 name="M+ Hits" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MHITSH" group-title="Entretenimiento",M+ Hits
-http://127.0.0.1:6878/ace/getstream?infohash=e10ef7d45baba0ec10a1f237042dc633df947826
+#http://127.0.0.1:6878/ace/getstream?infohash=e10ef7d45baba0ec10a1f237042dc633df947826
 
 #EXTINF:-1 name="M+ Indie" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MINDI" group-title="Entretenimiento",M+ Indie
-http://127.0.0.1:6878/ace/getstream?infohash=060f90e77ec1f3478ef81b58569c0158b7851af5
+#http://127.0.0.1:6878/ace/getstream?infohash=060f90e77ec1f3478ef81b58569c0158b7851af5
 
 #EXTINF:-1 name="M+ Originales" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MORIGH" group-title="Entretenimiento",M+ Originales
-http://127.0.0.1:6878/ace/getstream?infohash=0364449064d322a1bc0f97d568452053810ef8bc
+#http://127.0.0.1:6878/ace/getstream?infohash=0364449064d322a1bc0f97d568452053810ef8bc
 
 #EXTINF:-1 name="M+ COMEDIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/CPCOME" group-title="Entretenimiento",M+ COMEDIA
-http://127.0.0.1:6878/ace/getstream?infohash=28e3a4ee2f3d9876435c534a49e34e1a4ced0f12
+#http://127.0.0.1:6878/ace/getstream?infohash=28e3a4ee2f3d9876435c534a49e34e1a4ced0f12
 
 #EXTINF:-1 name="M+ Terror" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/L2000" group-title="Entretenimiento",M+ Los 2000
-http://127.0.0.1:6878/ace/getstream?infohash=17ad42b190bd0327984ea7efee661564a61bfc5b
+#http://127.0.0.1:6878/ace/getstream?infohash=17ad42b190bd0327984ea7efee661564a61bfc5b
 
 #EXTINF:-1 name="M+ Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MDOCHD" group-title="Entretenimiento",M+ Documentales
-http://127.0.0.1:6878/ace/getstream?infohash=a52f0bf0a381275ccbd65988b803fe4e5930bef7
+#http://127.0.0.1:6878/ace/getstream?infohash=a52f0bf0a381275ccbd65988b803fe4e5930bef7
 
 #EXTINF:-1 name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="Entretenimiento",SYFY
 #http://127.0.0.1:6878/ace/getstream?infohash=bed9968cc0091f388b166773426550a178d3d684
 
 #EXTINF:-1 name="AXN Movies" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/AXNWHD" group-title="Entretenimiento",AXN Movies
-http://127.0.0.1:6878/ace/getstream?infohash=e075d960a5dc90c4acebe1b8060d8f29a525310b
+#http://127.0.0.1:6878/ace/getstream?infohash=e075d960a5dc90c4acebe1b8060d8f29a525310b
 
 #EXTINF:-1 name="CALLE 13" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/C13HD" group-title="Entretenimiento",CALLE 13
-http://127.0.0.1:6878/ace/getstream?infohash=ab04c2ca4d300adb8d17acb054e5a6eedcd4bf27
+#http://127.0.0.1:6878/ace/getstream?infohash=ab04c2ca4d300adb8d17acb054e5a6eedcd4bf27
 
 #EXTINF:-1 name="SkyShowtime 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/SKYSHO" group-title="Entretenimiento",SkyShowtime 1
-http://127.0.0.1:6878/ace/getstream?infohash=f1edc5f73f4e489a607feb755695a2c2dff3f17f
+#http://127.0.0.1:6878/ace/getstream?infohash=f1edc5f73f4e489a607feb755695a2c2dff3f17f
 
 #EXTINF:-1 name="DAZN MotoGP" tvg-logo="https://image.discovery.indazn.com/jp/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/17" group-title="Deportes",DAZN MotoGP
 http://127.0.0.1:6878/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d 
